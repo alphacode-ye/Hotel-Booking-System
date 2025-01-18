@@ -86,6 +86,3 @@ This project is licensed under the MIT License. See the LICENSE file for more de
 ---
 
 Happy Coding! 🚀
-```
-
-الآن يمكنك نسخ هذا النص بالكامل ولصقه في ملف الـ README الخاص بك!
