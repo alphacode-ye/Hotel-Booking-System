@@ -1,7 +1,7 @@
 # Hotel Booking System
 
 ## Overview  
-A console-based Hotel Booking System designed to help users manage hotel reservations. This app allows users to search for hotels, view room availability, make bookings, and manage reservations. The system utilizes object-oriented programming concepts, including inheritance and polymorphism, to improve programming skills in Java.
+A console-based Hotel Booking System designed to help users manage hotel reservations. This app allows users to search for hotels, view room availability, make bookings, and manage reservations. The system utilizes object-oriented programming concepts, including inheritance and polymorphism, to improve programming skills in python.
 
 ## Features
 - **Hotel Search:** Find hotels based on location and rating.
@@ -31,12 +31,6 @@ Set up the environment:
 - If using an IDE like IntelliJ or Eclipse, simply open the project.
 - Alternatively, compile and run from the command line.
 
-## Usage
-Run the application:
-
-```bash
-java Main
-```
 
 ### Manage Hotels:
 - Add new hotels with details like location, rating, and available rooms.
