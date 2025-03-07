@@ -23,8 +23,7 @@ A console-based Hotel Booking System designed to help users manage hotel reserva
 Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/hotel-booking-system.git
-cd hotel-booking-system
+git clone https://github.com/alphacode-ye/Hotel-Booking-System.git
 ```
 
 Set up the environment:
